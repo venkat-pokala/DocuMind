@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vector database
+chroma_db/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+temp/
+tmp/
+*.log
+
+# IDE
+.vscode/
